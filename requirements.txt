@@ -1,7 +1,7 @@
 flask
 gtts
 transformers
-googletrans
+googletrans==4.0.0-rc1
 deep_translator
 pytesseract
 Pillow
