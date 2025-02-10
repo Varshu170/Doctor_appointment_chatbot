@@ -6,6 +6,6 @@ deep_translator
 pytesseract
 Pillow
 pyPdf2
-
+gunicorn
 
 
