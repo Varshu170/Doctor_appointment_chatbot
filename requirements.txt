@@ -3,10 +3,9 @@ gtts
 transformers
 googletrans
 deep_translator
-smtplib
 pytesseract
 PIL
 pyPdf2
-os
-random
+
+
 
